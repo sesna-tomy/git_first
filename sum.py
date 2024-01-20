@@ -1,2 +1,3 @@
-def sum(a,b):
-    return a+b
+a = 3
+b = 4
+total = a + b
