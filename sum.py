@@ -1,3 +1,2 @@
-a = 3
-b = 4
-total = a + b
+def total(a,b):
+    return a + b
